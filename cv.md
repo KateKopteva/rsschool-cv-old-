@@ -1,5 +1,7 @@
 ## Kate Kopteva
 
+![photo](media/photo.jpg)
+
 Phone: +375295066054
 Email: bychkokatya@gmail.com
 LinkedIn: <https://clck.ru/Ye4QU>
@@ -38,3 +40,25 @@ def anagrams(word, words):
     return s
 
 print(anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada']))
+```
+***
+
+#### WORK EXPERIENCE
+
+* Minsk Electric Networks, *full stack developer* 
+* Coding School TeachMeSkills, *python developer*
+* Mostra-group, *economist*
+***
+
+#### EDUCATION
+
+* Coding School TeachMeSkills, *python developer*
+* Stepik.org, *python for beginners, javascript for beginners*
+* Belarusian National Technical University, *manager-economist*
+***
+
+#### LANGUAGES
+
+* English - Pre-Intermediate
+* Russian - Native 
+* Belarusian - Basic
